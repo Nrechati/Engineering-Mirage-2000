@@ -1,12 +1,13 @@
 # Engineering study: Flight command for Dassault Mirage 2000
 
+
 This project is my work on a use case for **"Flight Commands"** as a 5th Year **Engineering student at ESTACA**
 
 ## Abstract
 
 This aim of this project was to take the **Dassault Aviation Mirage 2000** as a use case for Fligt command scaling. We had to do a full longitudinal and transversal aerodynamic study of the aircraft before scaling flight commands and then run simulations on it. We had to look over the aircraft's specification and scale our flight commands according to the architecture and required maneuvers. This project made us apply all our theoretical knowledge upon aerodynamics and commands on a concrete use case to understand fully what scaling an aircraft's flight command is like. We also got to see how the aircraft architecture and flight commands requirement influence one another.
 
-## Summary
+## Table of contents
 
 ### A. Longitudinal Study
 
