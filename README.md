@@ -24,7 +24,7 @@ This aim of this project was to take the **Dassault Aviation Mirage 2000** as a 
 	- 3. Static margin position influence
 
 - **III. Small movement around the balance point**
-	- 1. Dampening, static margin and natural frequency calculation for both flight points
+	- 1. Dampening, static margin and eigenvalue calculation for both flight points
 	- 2. Load factor calculation at the center of gravity
 
 ### B. Transversal Study
